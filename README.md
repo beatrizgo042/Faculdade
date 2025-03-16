@@ -6,7 +6,7 @@ Hello, how are you? 👋🏼
 Welcome to my project! Here is where I will put my studies projects and create a simple portifolio.
 <br></br>
 ## 📑 Subjects
-- <a href="#-database-fundamentals">Database Fundamentals</a>
+- <a href="https://github.com/beatrizgo042/Fundamentos-de-Bancos-de-Dados">Database Fundamentals</a>
 - <a href="#-bject-oriented-programming">Object-Oriented Programming</a>
 - <a href="#-cloud-computing">Cloud Computing</a>
 - <a href="#-author">Author</a>
